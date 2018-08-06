@@ -87,8 +87,6 @@ $this->Html->link('PDF file', ['ext' => 'pdf']);
 ```
   - Place the View templates in the subdirectory `Pdf`, e.g.:
     `app/View/Invoices/Pdf/index.ctp`
-```php
-```
   - Use the `CakeTCPDF.exportPdfTable` element in your View file, e.g.:
 ```php
 if (!empty($exportConfig)) {
