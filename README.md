@@ -9,7 +9,7 @@ Generate PDF files with the CakePHP
 
 ## Installation
 
-1. Install the Plugin using composer: `composer require anklimsk/cakephp-tcpdf`
+1. Install the Plugin using composer: `composer require anklimsk/cakephp2-tcpdf`
 2. Add the next line to the end of the file `app/Config/bootstrap.php`:
 ```php
 CakePlugin::load('CakeTCPDF', ['bootstrap' => true, 'routes' => true]);
