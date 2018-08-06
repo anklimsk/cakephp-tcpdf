@@ -1,5 +1,5 @@
 {
-    "name": "anklimsk/cakephp-tcpdf",
+    "name": "anklimsk/cakephp2-tcpdf",
     "description": "Generate PDF files with the CakePHP 2.x",
     "type": "cakephp-plugin",
     "homepage": "https://github.com/anklimsk/cakephp-tcpdf",
