@@ -1,8 +1,8 @@
 # CakePHP 2.x Generate PDF files plugin
 [![Build Status](https://travis-ci.com/anklimsk/cakephp-tcpdf.svg?branch=master)](https://travis-ci.com/anklimsk/cakephp-tcpdf)
 [![Coverage Status](https://codecov.io/gh/anklimsk/cakephp-tcpdf/branch/master/graph/badge.svg)](https://codecov.io/gh/anklimsk/cakephp-tcpdf)
-[![Latest Stable Version](https://poser.pugx.org/anklimsk/cakephp-tcpdf/version)](https://packagist.org/packages/anklimsk/cakephp2-tcpdf)
-[![License](https://poser.pugx.org/anklimsk/cakephp-tcpdf/license)](https://packagist.org/packages/anklimsk/cakephp2-tcpdf)
+[![Latest Stable Version](https://poser.pugx.org/anklimsk/cakephp2-tcpdf/v/stable)](https://packagist.org/packages/anklimsk/cakephp2-tcpdf)
+[![License](https://poser.pugx.org/anklimsk/cakephp2-tcpdf/license)](https://packagist.org/packages/anklimsk/cakephp2-tcpdf)
 
 Generate PDF files with the CakePHP
 
